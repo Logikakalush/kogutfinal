@@ -1,0 +1,139 @@
+body {
+    font-family: sans-serif;
+    background-color: #44887B;
+    font-size: 20PX
+}
+header{
+    background-color:#477187 ;
+    padding: 10PX;
+
+}
+nav a{
+    text-decoration: none;
+    color:#032436 ;
+     
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    color: #032436;
+    font-size: 30px;
+    text-align: center;
+}
+.try{
+    display: flex;
+    justify-content: center;
+    margin: 70px 200px  70px 200px ;
+    text-decoration: none;
+    color: #44887B;
+    background-color: #032436;
+    padding: 10px;
+}
+
+.try:hover{
+    opacity: 0.6;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.napramky{
+    display: flex;
+}
+.sport{
+width: 300px;
+border: 10px solid #032436;
+margin: 5px;
+text-align: ;
+}
+.sport img{
+width: 200px;
+border: 10px solid #032436;
+margin: 5px;
+}
+iframe{
+    width: 500px;
+    
+}
+iframe{
+    width: 500px;
+}
+iframe{
+    width: 500px;
+}
+.teachers img{
+height: 300px;
+width: 300px;
+}
+h5{
+    text-align: center;
+}
+.sport img{
+    margin: 30px;
+}
+.sport p{
+    margin: 10px;
+}
+.aboutus{
+display: flex;
+}
+.aboutus p{
+float: left;
+margin: 25px;
+}
+.aboutus iframe{
+float: right;
+height: 300px;
+}
+.sport a{
+
+display: flex;
+justify-content: center;
+text-decoration: none;
+color: #44887B;
+background-color: #032436;
+padding: 10px;
+}
+.teachers{
+display: flex;
+}
+.teacher{
+width: 300px;
+text-align: center;
+background-color: #477187;
+padding: 20px;
+color: #032436;
+font-size: 30px;
+}
+.teacher img{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+.teacher iframe{
+display: flex;
+width: auto;
+height: 250px;
+}
+article a{
+    margin: 10px;
+}
+
+article p{
+    height: 250px;
+}
+
+footer img{
+    height: 100px;
+    width: 100px;
+}
+
+article a:visited{
+    background-color: gray;
+}
